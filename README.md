@@ -56,7 +56,7 @@ ShikshMitra is a next-gen educational ecosystem built to bridge the gap between 
 
 ## 📱 Screenshots
 
-> _Coming Soon..._ (Or insert images/screenshots here using `![title](path)`)
+> _Coming Soon..._
 
 ---
 
@@ -65,7 +65,7 @@ ShikshMitra is a next-gen educational ecosystem built to bridge the gap between 
 > Built with ❤️ by passionate developers and educators working together to redefine learning.
 
 - 👨‍🏫 Educator Advisors
-- 🧑‍💻 Dev Team: Full Stack Developers, UI/UX Designers
+- 🧑‍💻 Dev Team: Tanmay Sawankar, Shruti Sinha, Jyotsna Shrivastava , Pratham Sharma
 - 📊 Data Science Team
 - 🎯 Product & Vision Leads
 
@@ -75,9 +75,7 @@ ShikshMitra is a next-gen educational ecosystem built to bridge the gap between 
 
 Have feedback or want to collaborate?
 
-📧 Email us: **shikshmitra.team@gmail.com**  
-🔗 LinkedIn: [ShikshMitra Project](https://linkedin.com/in/yourprojectpage)  
-🌐 Website: [www.shikshmitra.in](https://shikshmitra.in) _(if live)_
+📧 Email us: **tanmaysawankar4441@gmail.com**  
 
 ---
 
